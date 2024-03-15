@@ -13,8 +13,12 @@
 `npm install`
 
 
-#### Then a command to build client resources:
+#### Then run the command to build client resources:
 `npm run build`
+
+
+#### Create and, if necessary, customize the environment file:
+`cp .env.example .env`
 
 
 #### To create a SQLite database run:
